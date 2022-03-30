@@ -1,30 +1,28 @@
-Sobre:
+## Sobre:
 
 Projeto de desenvolvimento de um webchat feito durante o curso da trybe.
 
-tecnologias:
+## tecnologias:
 
-javascript, node.js, mongodb, socket.io
+<div style="display: inline_block"><br>
+   <img align="center" alt="Joao-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Joao-Node" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg">
+   <img align="center" alt="Joao-Mongo" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+   <img align="center" alt="Joao-socket" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original-wordmark.svg">
+</div>
 
-Para rodar o projeto:
+## Para rodar o projeto:
 
 É necessario ter o Git, Node e MongoDB instalados
 
-Clone o projeto:
+## Clone o projeto:
 
-git clone git@github.com:JoaoCabrera/WebChat.git
+`git clone git@github.com:JoaoCabrera/WebChat.git`
 
-Instale as dependências:
+## Instale as dependências:
 
-npm install
+`npm install`
 
-Inicie o projeto:
+## Inicie o projeto:
 
-npm start
-
-
-1. Clone o repositório
-
-   - `git clone https://github.com/tryber/sd-011-project-webchat.git`.
-   - Entre na pasta do repositório que você acabou de clonar:
-     - `cd sd-011-project-webchat`
+`npm start`
