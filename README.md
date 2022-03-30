@@ -13,7 +13,7 @@ Projeto de desenvolvimento de um webchat feito durante o curso da trybe.
 
 ## Para rodar o projeto:
 
-É necessario ter o Git, Node e MongoDB instalados
+É necessario ter o Git, Node e MongoDB instalados para rodar o projeto.
 
 ## Clone o projeto:
 
