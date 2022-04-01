@@ -2,7 +2,7 @@
 
 Projeto de desenvolvimento de um webchat feito durante o curso da trybe.
 
-## tecnologias:
+## Tecnologias:
 
 <div style="display: inline_block"><br>
    <img align="center" alt="Joao-Js" height="60" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
